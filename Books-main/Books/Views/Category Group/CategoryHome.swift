@@ -2,8 +2,6 @@
 //  CategoryHome.swift
 //  Books
 //
-//  Created by Dang Le on 7/1/22.
-//
 
 import SwiftUI
 
