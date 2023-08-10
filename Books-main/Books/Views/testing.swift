@@ -2,8 +2,6 @@
 //  testing.swift
 //  Books
 //
-//  Created by Dang Le on 7/15/22.
-//
 
 import SwiftUI
 
