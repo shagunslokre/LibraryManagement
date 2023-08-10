@@ -2,8 +2,6 @@
 //  ProfileSummary.swift
 //  Books
 //
-//  Created by Dang Le on 7/8/22.
-//
 
 import SwiftUI
 
