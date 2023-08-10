@@ -2,8 +2,6 @@
 //  FavoriteButton.swift
 //  Books
 //
-//  Created by Dang Le on 6/24/22.
-//
 
 import SwiftUI
 
