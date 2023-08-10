@@ -2,8 +2,6 @@
 //  BookRow.swift
 //  Books
 //
-//  Created by Dang Le on 6/18/22.
-//
 
 import SwiftUI
 
