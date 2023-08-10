@@ -2,8 +2,6 @@
 //  Receive_Send_Data.swift
 //  Landmarks
 //
-//  Created by Dang Le on 7/29/22.
-//
 
 import SwiftUI
 
