@@ -2,8 +2,6 @@
 //  ProfileEditor.swift
 //  Landmarks
 //
-//  Created by Dang Le on 7/22/22.
-//
 
 import SwiftUI
 
