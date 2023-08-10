@@ -1,0 +1,123 @@
+[
+    {
+        "name": "Harry Potter",
+        "category": "Novel",
+        "genre": "Fantasy",
+        "author": "J.K. Rowling",
+        "price": "6.98",
+        "id": 1001,
+        "isFeatured": true,
+        "isFavorite": true,
+        "description": "Adaptation of the first of J.K. Rowling's popular children's novels about Harry Potter, a boy who learns on his eleventh birthday that he is the orphaned son of two powerful wizards and possesses unique magical powers of his own. He is summoned from his life as an unwanted child to become a student at Hogwarts, an English boarding school for wizards. There, he meets several friends who become his closest allies and help him discover the truth about his parents' mysterious deaths.",
+        "imageName": "harrypotter",
+        "category": "novel"
+    },
+    {
+        "name": "Tron",
+        "category": "Math",
+        "genre": "Science Fiction",
+        "author": "Steven Lisberger, Bonnie MacBird",
+        "price": "4.99",
+        "id": 1002,
+        "isFeatured": false,
+        "isFavorite": false,
+        "description": "Computer programmer Kevin Flynn is transported inside the software world of a mainframe computer, where he interacts with various programs in his attempt to get back out. During his adventure he meets Tron, a rebel program fighting the tyrannical Master Control Program.",
+        "imageName": "tron"
+    },
+    {
+        "name": "The Fellowship Of The Ring",
+        "category": "Novel",
+        "genre": "Fantasy",
+        "author": "J.R.R. Tolkin",
+        "price": "10.99",
+        "id": 1003,
+        "isFeatured": false,
+        "isFavorite": false,
+        "description": "The future of civilization rests in the fate of the One Ring, which has been lost for centuries. Powerful forces are unrelenting in their search for it. But fate has placed it in the hands of a young Hobbit named Frodo Baggins, who inherits the Ring and steps into legend. A daunting task lies ahead for Frodo when he becomes the Ringbearer - to destroy the One Ring in the fires of Mount Doom where it was forged.",
+        "imageName": "thefellowshipofthering"
+    },
+    {
+        "name": "The Two Towers",
+        "category": "Novel",
+        "genre": "Fantasy",
+        "author": "J.R.R. Tolkin",
+        "price": "10.99",
+        "id": 1004,
+        "isFeatured": false,
+        "isFavorite": false,
+        "description": "The Two Towers opens with the disintegration of the Fellowship, as Merry and Pippin are taken captive by Orcs after the death of Boromir in battle. The Orcs, having heard a prophecy that a Hobbit will bear a Ring that gives universal power to its owner, wrongly think that Merry and Pippin are the Ring-bearers.",
+        "imageName": "thetwotowers"
+    },
+    {
+        "name": "The Return Of The King",
+        "category": "Novel",
+        "genre": "Fantasy",
+        "author": "J.R.R. Tolkin",
+        "price": "10.99",
+        "id": 1005,
+        "isFeatured": false,
+        "isFavorite": false,
+        "description": "The Return of the King, the third and final volume in The Lord of the Rings, opens as Gandalf and Pippin ride east to the city of Minas Tirith in Gondor, just after parting with King Théoden and the Riders of Rohan at the end of The Two Towers. In Minas Tirith, Gandalf and Pippin meet Denethor, the city’s Steward, or ruler, who clearly dislikes Gandalf. Pippin offers Denethor his sword in service to Gondor, out of gratitude for the fact that Denethor’s son Boromir gave his life for the hobbits earlier in the quest.",
+        "imageName": "thereturnoftheking"
+    },
+    {
+        "name": "Ali: A Life",
+        "category": "Novel",
+        "genre": "Biography",
+        "author": "Jonathan Eig",
+        "price": "4.99",
+        "id": 1006,
+        "isFeatured": false,
+        "isFavorite": false,
+        "description": "Ali: A Life is a story about America, about race, about a brutal sport, and about a courageous man who shook up the world.",
+        "imageName": "alialife"
+    },
+    {
+        "name": "The Art Of War",
+        "category": "Science",
+        "genre": "War",
+        "author": "Sun Tzu",
+        "price": "4.99",
+        "id": 1007,
+        "isFeatured": false,
+        "isFavorite": false,
+        "description": "The Art Of War has been considered the definitive text on military strategy and warfare ever since being written in ancient China around 500 BC, inspiring businesses, athletes, and of course generals to beat their opponents and competition the right way until today.",
+        "imageName": "theartofwar"
+    },
+    {
+        "name": "In Search Of Lost Time",
+        "category": "Novel",
+        "genre": "Modern Literature",
+        "author": "Marcel Proust",
+        "price": "4.99",
+        "id": 1008,
+        "isFeatured": false,
+        "isFavorite": false,
+        "description": "In Search of Lost Time follows the narrator's recollections of childhood and experiences into adulthood in the late 19th-century and early 20th-century high-society France, while reflecting on the loss of time and lack of meaning in the world.",
+        "imageName": "tron"
+    },
+    {
+        "name": "Ready Player One",
+        "category": "Math",
+        "genre": "Science Fiction",
+        "author": "Ernest Cline",
+        "price": "4.99",
+        "id": 1009,
+        "isFeatured": false,
+        "isFavorite": false,
+        "description": "In 2045 the planet is on the brink of chaos and collapse, but people find salvation in the OASIS: an expansive virtual reality universe created by eccentric James Halliday. When Halliday dies, he promises his immense fortune to the first person to discover a digital Easter egg that's hidden somewhere in the OASIS. When young Wade Watts joins the contest, he finds himself becoming an unlikely hero in a reality-bending treasure hunt through a fantastical world of mystery, discovery and danger.",
+        "imageName": "readyplayerone"
+    },
+    {
+        "name": "Fahrenheit 451",
+        "category": "Science",
+        "genre": "Science Fiction",
+        "author": "Ray Bradubury",
+        "price": "12.99",
+        "id": 1010,
+        "isFeatured": false,
+        "isFavorite": false,
+        "description": "Guy Montag is a fireman. His job is to destroy the most illegal of commodities, the printed book, along with the houses in which they are hidden. Montag never questions the destruction and ruin his actions produce, returning each day to his bland life and wife, Mildred, who spends all day with her television “family.” But when he meets an eccentric young neighbor, Clarisse, who introduces him to a past where people didn’t live in fear and to a present where one sees the world through the ideas in books instead of the mindless chatter of television, Montag begins to question everything he has ever known.",
+        "imageName": "fahrenheit451"
+    }
+]
